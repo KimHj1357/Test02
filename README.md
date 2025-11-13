@@ -6,3 +6,5 @@
 `int add(int a, int b){int result; result = a+b; return result}`
 
 [구글 바로가기](www.google.com)
+
+![프로필 이미지](./snowman.jpeg)
